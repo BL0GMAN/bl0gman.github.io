@@ -3,7 +3,7 @@ layout: post
 title:  "Where to store your digital files"
 author: damjan
 categories: [ technology, tutorial ]
-image: https://images.unsplash.com/photo-1500627965408-b5f2c8793f17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
+image: assets/images/3.jpg
 ---
 
 We all have a lot of files that are extremely important for our lives. 
