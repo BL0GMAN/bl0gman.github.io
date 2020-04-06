@@ -3,7 +3,7 @@ layout: post
 title:  "Biblioteca Philosophica Hermetica"
 author: damjan
 categories: [ esoteric, spirituality, knowledge ]
-image: https://upload.wikimedia.org/wikipedia/commons/1/1a/Corpus_Hermeticum.jpg
+image: assets/images/4.jpg
 ---
 Lovers of the occult and esoteric - rejoice!
 
