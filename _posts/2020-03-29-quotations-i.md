@@ -3,7 +3,7 @@ layout: post
 title:  "Quotations: I"
 author: damjan
 categories: [ quote ]
-image: https://upload.wikimedia.org/wikipedia/commons/e/e9/Andr%C3%A9_Malraux%2C_Pic%2C_22.jpg
+image: assets/images/2.jpg
 tags: featured
 ---
 André Malraux 
