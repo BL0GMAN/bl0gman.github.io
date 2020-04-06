@@ -14,7 +14,7 @@ Keeping those files **safe and always at hand** is a problem that arises fairly 
 
 Having **hard drives** is very nice and useful but it's difficult to access them from different devices, especially if you don't have the disks near you.
 
-<center><img src="https://www.gadgetreview.com/wp-content/uploads/2014/08/internal-hard-drives.png"></i></center>
+<center><img src="https://www.gadgetreview.com/wp-content/uploads/2014/08/internal-hard-drives.png"></center>
 
 So the most popular alternative for data storage is **cloud storage**, online. 
 
