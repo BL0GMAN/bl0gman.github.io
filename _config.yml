@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: damjan
-      avatar: /assets/images/avatar1.jpg
+      avatar: /assets/images/avatar.jpg
       
   # all pages
   - scope:
