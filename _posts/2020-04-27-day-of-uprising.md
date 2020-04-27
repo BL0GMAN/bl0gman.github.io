@@ -9,7 +9,7 @@ tags: featured
 
 April 27th, **Day of Uprising Against Occupation** (*Dan upora proti okupatorju*). Slovenian state holiday, work-free. Formerly Liberation Front Day (*Dan Osvobodilne fronte*), marks the establishment in **1941** of the Anti-Imperialist Front to fight "imperialists", later renamed the Liberation Front to fight the German, Italian, Hungarian, and Croatian partition and annexation of Slovenia.
 
-This was the beginning of the fight against nazis, fascists and alike. The beginning of the end for the enemies of humanity.
+This was the beginning of the **fight against nazism, fascism and alike**. The beginning of the end for the enemies of humanity.
 
 Fast-forward 79 years and here we are. Fighting against the "**Invisible enemy**", a small virus whose birth caused the people of the Earth to stand still, forced into their homes (which are luckily warm and nice, but for some it is quite the opposite).
 
@@ -31,9 +31,9 @@ It is funny how we spend so much time arguing about things that don't really mat
 
 **Stop with this nonsense. Take action. Start to grow food (famine is a serious threat!), learn to make things yourself, if you must buy, buy locally, cherish your friends and family, ask people if they need help (maybe psychological, a talk or two),...**
 
-I personally spend this time learning a few skills that I didn't think I had the time for, mostly online stuff, a little coding, personal growth, about nature, reading a few interesting books etc. I want to be better at thing I do and want to learn new skills in this everchanging world. And I want to utilize this knowledge as soon as possible to help myself and others in the battle for Humanity, in the battle for Nature; battle for Love.
+I personally spend this time learning a few skills that I didn't think I had the time for, mostly online stuff, a little coding, personal growth, about nature, reading a few interesting books etc. I want to be better at things I do and want to learn new skills in this everchanging world. And I want to utilize this knowledge as soon as possible to help myself and others in the battle for Humanity, in the battle for Nature; battle for Love.
 
-**We are going through a bottleneck and everyone can see it if the look carefully. It is our duty to put our inner world to light and share the best we can to help us in this transition.** 
+**We are going through a bottleneck and everyone can see it if they look carefully. It is our duty to put our inner world to light and share the best we can to help us in this transition.** 
 
 Systems will fall, economies will crush and what will come out? 
 
