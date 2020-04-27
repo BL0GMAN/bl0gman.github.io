@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Day of Uprising Against Occupation"
+title: "Day of Uprising Against Occupation"
 author: damjan
 categories: [ society, personal ]
 image: assets/images/9.jpg
-tags:featured
+tags: featured
 ---
 
 April 27th, **Day of Uprising Against Occupation** (*Dan upora proti okupatorju*). Slovenian state holiday, work-free. Formerly Liberation Front Day (*Dan Osvobodilne fronte*), marks the establishment in **1941** of the Anti-Imperialist Front to fight "imperialists", later renamed the Liberation Front to fight the German, Italian, Hungarian, and Croatian partition and annexation of Slovenia.
@@ -15,7 +15,7 @@ Fast-forward 79 years and here we are. Fighting against the "**Invisible enemy**
 
 **Oppressive measurements** taken all over the World in the battle against a virus. 
 
-<center><img src="https://pbs.twimg.com/media/EWdtz9_WAAIEnOb?format=jpg&name=900x900" width="350" height="250"></center>
+<center><img src="https://pbs.twimg.com/media/EWdtz9_WAAIEnOb?format=jpg&name=900x900" width="250" height="357"></center>
 
 What is going on behind the scenes is perfectly ignored now since we have a theater show to cover up. Far-right ideologies have fruitful grounds in late-capitalism; when the animal is dying it is willing to risk it all and put up a fight. And if we learn from history, times such as these have sprung wars between nations and even in their own borders. Poverty, famine and breakdown of the economy lead to the heating of the gears of war and eventually slaughter of mankind.
 
