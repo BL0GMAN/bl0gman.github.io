@@ -43,7 +43,7 @@ It's up to you. YOU decide. And act NOW!
 
 [Death to fascism, freedom to the people](https://en.wikipedia.org/wiki/Death_to_fascism,_freedom_to_the_people)!
 
-<center><img src="https://en.wikipedia.org/wiki/Death_to_fascism,_freedom_to_the_people#/media/File:Stjepan_Stevo_Filipovi%C4%87.jpg"></center>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stjepan_Stevo_Filipovi%C4%87.jpg/1024px-Stjepan_Stevo_Filipovi%C4%87.jpg"></center>
 
 Stay safe and thanks for reading,
 till next time!
