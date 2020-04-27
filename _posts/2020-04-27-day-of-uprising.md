@@ -15,7 +15,7 @@ Fast-forward 79 years and here we are. Fighting against the "**Invisible enemy**
 
 **Oppressive measurements** taken all over the World in the battle against a virus. 
 
-<center><img src="https://pbs.twimg.com/media/EWdtz9_WAAIEnOb?format=jpg&name=900x900"></center>
+<center><img src="https://pbs.twimg.com/media/EWdtz9_WAAIEnOb?format=jpg&name=900x900" width="350" height="250"></center>
 
 What is going on behind the scenes is perfectly ignored now since we have a theater show to cover up. Far-right ideologies have fruitful grounds in late-capitalism; when the animal is dying it is willing to risk it all and put up a fight. And if we learn from history, times such as these have sprung wars between nations and even in their own borders. Poverty, famine and breakdown of the economy lead to the heating of the gears of war and eventually slaughter of mankind.
 
@@ -43,7 +43,7 @@ It's up to you. YOU decide. And act NOW!
 
 [Death to fascism, freedom to the people](https://en.wikipedia.org/wiki/Death_to_fascism,_freedom_to_the_people)!
 
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stjepan_Stevo_Filipovi%C4%87.jpg/1024px-Stjepan_Stevo_Filipovi%C4%87.jpg"></center>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stjepan_Stevo_Filipovi%C4%87.jpg/304px-Stjepan_Stevo_Filipovi%C4%87.jpg"></center>
 
 Stay safe and thanks for reading,
 till next time!
