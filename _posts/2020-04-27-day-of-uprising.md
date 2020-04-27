@@ -4,6 +4,7 @@ title:  "Day of Uprising Against Occupation"
 author: damjan
 categories: [ society, personal ]
 image: assets/images/9.jpg
+tags:featured
 ---
 
 April 27th, **Day of Uprising Against Occupation** (*Dan upora proti okupatorju*). Slovenian state holiday, work-free. Formerly Liberation Front Day (*Dan Osvobodilne fronte*), marks the establishment in **1941** of the Anti-Imperialist Front to fight "imperialists", later renamed the Liberation Front to fight the German, Italian, Hungarian, and Croatian partition and annexation of Slovenia.
