@@ -20,6 +20,9 @@ Law authorities say they have to investigate further before making judgements. A
 
 Protests are now spreading to other cities in the US as well. Even the president Trump tweeted about sending National Guard if things get out of hand.
 
+Here is a scene from the streets of Minneapolis:
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Video of Arby&#39;s in Minneapolis burning.<br><br>Please note the brief image of celebratory fireworks as the building burns.<br><br>Welcome to the New Normal in riot etiquette. <a href="https://t.co/HyxFXzUjpc">pic.twitter.com/HyxFXzUjpc</a></p>&mdash; John McAfee (@officialmcafee) <a href="https://twitter.com/officialmcafee/status/1266324846826397699?ref_src=twsrc%5Etfw">May 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+
 You can check the Youtube video here: 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/1bZUDg3aQLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
